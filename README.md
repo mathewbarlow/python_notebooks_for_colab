@@ -1,2 +1,1 @@
-# python_notebooks_for_colab
-python notebooks for Google Colab
+This repository contains python notebooks made to run on Google Colab
