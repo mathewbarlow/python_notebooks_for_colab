@@ -1,6 +1,6 @@
 This repository contains python notebooks made for Google Colab. 
 
-If you have the required packages installed on your own system, you can comment out or delete the '!pip install ...' lines in these notebooks and they should run without further modification.
+If you have the required packages (and, sometimes, libraries) installed on your own system, you can comment out or delete the '!pip install ...' lines in these notebooks and they should run without further modification.
 
 <b> shallow_water_model_shtns.ipynb </b> 
 
