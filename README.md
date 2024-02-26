@@ -1,4 +1,4 @@
-This repository contains python notebooks made to run on Google Colab. 
+This repository contains python notebooks made for Google Colab. 
 
 If you have the required packages installed on your own system, you can comment out or delete the '!pip install ...' lines in these notebooks and they should run without further modification.
 
